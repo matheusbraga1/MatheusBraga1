@@ -13,7 +13,6 @@ Language and skills: **Javascript and PY**
   <img align="left" alt="Braga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="Braga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="Braga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Braga-pic" height="150" style="border-radius:50px;" src="https://pngset.com/images/jujutsu-kaisen-wiki-jujutsu-kaisen-satoru-gojo-manga-comics-book-person-transparent-png-748579.png">
 </div>
   
   ##
