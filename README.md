@@ -2,7 +2,7 @@
 
 *I'm a computer science student and I'm on my way to becoming a dev*
 
-Language and skills: **Javascript and PY**
+Language and skills: **Javascript and C#**
 
 <div align="center">
   <a href="https://github.com/MatheusBraga1">
