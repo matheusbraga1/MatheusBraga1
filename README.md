@@ -1,18 +1,44 @@
-## Hi, I'm Matheus!
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MatheusBraga1/93bbe2ea88c5cccfab796ff4f7e2b53f/raw/1c08f7fa0a1f5e2e973765aaa22f03a7feee5d23/githubcard.svg"/>
+<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Braga</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusBraga1&color=yellow" alt="Profile views" /> </p>
 
-*I'm a computer science student and I'm on my way to becoming a dev*
+- 🔥 I'm a computer science student and I'm on my way to becoming a dev
 
-Language and skills: **Javascript and C#**
+- 🌱 I’m currently learning C# and .NET
 
-<div align="center">
-  <a href="https://github.com/MatheusBraga1">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBraga1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="left" alt="Braga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="Braga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="Braga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="Braga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, C#**
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
+![.NET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=dotnet)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+<br><br>
+<!--
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MatheusBraga1&show_icons=true&theme=tokyonight" alt="matheusbraga's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBraga1&layout=compact&theme=tokyonight" alt="matheusbraga's most languages"/>
+</p>
+-->
+<br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/bragaxdd" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-MatheusBraga-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.instagram.com/matheussbraga1/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-MatheusBraga-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
