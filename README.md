@@ -1,12 +1,12 @@
-<img align="right" height="300em" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+<!-- <img align="right" height="300em" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/> -->
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Braga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusBraga1&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I'm a computer science student and I'm on my way to becoming a dev
+- 🔥 I'm a computer science student and I'm a backend developer
 
 - 🌱 I’m currently learning C# and .NET
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, C#**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, C#, Angular, Kotlin**
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -29,11 +29,3 @@
 </p>
 -->
 <br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://www.instagram.com/matheussbraga1/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-MatheusBraga-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
